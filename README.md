@@ -12,17 +12,17 @@ David Lagla, Cristhian Cuenca, Iker Cedeño
 
 Viernes 18 de noviembre del 2022
 
-Laboratorio N 2
+#### Laboratorio N 2
 
-OBJETIVOS 
+#### OBJETIVOS 
 
-Objetivo general
+#### Objetivo general
 
 
 -Comprender el método de análisis de malla, y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff con ésta, además de los conceptos básicos del análisis de circuitos.
 
 
-Objetivos específicos 
+#### Objetivos específicos 
 
 -Identificar la forma correcta de medición de corriente y voltaje con el multímetro para circuitos resistivos, y más específicamente de los circuitos analizados por mallas.
 
@@ -30,16 +30,16 @@ Objetivos específicos
 -Comparar los calculos teoricos con los practicos de medicion de tension, intensidad de corriente electrica y resistencias.
 
 
-Marco teórico
+#### Marco teórico
 
 ![image](https://user-images.githubusercontent.com/116814386/202626750-82807f85-b665-4b6f-8da8-0d69937e2579.png)
 
 
-MATERIAL Y EQUIPO REQUERIDO
+#### MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/116814386/202618837-51cc5a42-d7ec-4582-8859-ede959f5ca62.png)
   
-PROCEDIMIENTO
+#### PROCEDIMIENTO
 
 Implemente el circuito que se presenta en la figura
 
@@ -63,19 +63,22 @@ Solución del sistema de ecuaciones lineales por el método de Gauss:
 
 ![image](https://user-images.githubusercontent.com/116814386/202626578-0190cd57-f6db-45db-b18f-5a9ec63481d4.png)
 
-Resultados y discusión de resultados 
+#### Resultados y discusión de resultados 
 
-Como se puede apreciar en el cuadro de arriba los valores medidos simulados y calculamos están muy similares entre sí, debido a ello podemos afirmar que si se cumple las leyes de kirchoff en el análisis de mallas
+![image](https://user-images.githubusercontent.com/116814386/202717193-7d5433ef-1270-4fcd-a1ea-09a2e52cc196.png)
+
 Registramos estos datos en una tabla para poder compararles y discutir los resusltados 
 
+Como se puede apreciar en el cuadro de arriba los valores medidos simulados y calculamos están muy similares entre sí, debido a ello podemos afirmar que si se cumple las leyes de kirchoff en el análisis de mallas
 
-Conclusiones 
+
+#### Conclusiones 
 
 Tras simular y haber hecho el circuito de forma experimental se pudo comprobar las leyes de kirchoof para em análisis de mallas,además que se entendió como se relaciona este método con las unidades importantes dela corriente.
 
-Video
+#### Video
 
-Bibliografia 
+#### Bibliografia 
 
 
 
