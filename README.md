@@ -63,6 +63,9 @@ Solución del sistema de ecuaciones lineales por el método de Gauss:
 
 ![image](https://user-images.githubusercontent.com/116814386/202626578-0190cd57-f6db-45db-b18f-5a9ec63481d4.png)
 
+Resultados y discusión de resultados 
+
+Como se puede apreciar en el cuadro de arriba los valores medidos simulados y calculamos están muy similares entre sí, debido a ello podemos afirmar que si se cumple las leyes de kirchoff en el análisis de mallas
 Registramos estos datos en una tabla para poder compararles y discutir los resusltados 
 
 
