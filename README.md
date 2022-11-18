@@ -1,4 +1,4 @@
-### UNIVERSIDAD DE LAS FUERZAS ARMADAS 
+ ### UNIVERSIDAD DE LAS FUERZAS ARMADAS 
 
 #### Integrantes:
 
@@ -12,7 +12,7 @@ David Lagla, Cristhian Cuenca, Iker Cedeño
 
 Viernes 18 de noviembre del 2022
 
-#### Laboratorio N 2
+### PRÁCTICA No. 2 ANÁLISIS DE MALLAS
 
 #### OBJETIVOS 
 
@@ -65,10 +65,11 @@ Solución del sistema de ecuaciones lineales por el método de Gauss:
 
 #### Resultados y discusión de resultados 
 
-![image](https://user-images.githubusercontent.com/116814386/202717193-7d5433ef-1270-4fcd-a1ea-09a2e52cc196.png)
+![image](https://user-images.githubusercontent.com/116814386/202718663-ef5c72e7-002e-4898-b20d-6ffe6f3c003e.png)
+
 
 Registramos estos datos en una tabla para poder compararles y discutir los resusltados 
-
+ 
 Como se puede apreciar en el cuadro de arriba los valores medidos simulados y calculamos están muy similares entre sí, debido a ello podemos afirmar que si se cumple las leyes de kirchoff en el análisis de mallas
 
 
